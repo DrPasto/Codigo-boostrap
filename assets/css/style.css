@@ -35,15 +35,6 @@ footer{
     width: 100%;
     height: 400px;    
 }
-main{
-    background-color: rgba(14, 13, 13, 0.938);
-    background-size: cover;
-    display: flex;
-    width: 100%;
-    height: 100%;
-    flex-direction:flex;
-    justify-content:center;
-}
 header h1{
     color: white;
     font-size: 48px;
@@ -125,28 +116,44 @@ textarea{
     height: 200px;
     width: 400px;
 }
-.main__nosotros{
+.main__css{
     background-color: rgba(14, 13, 13, 0.938);
     background-size: cover;
     display: flex;
     width: 100%;
-    height: 600px;
+    height: 800px;
     flex-direction:flex;
     justify-content:center;
 }
-.main__nosotros ul{
-    color: white;
+.main__css__index{
+    background-color: rgba(14, 13, 13, 0.938);
+    background-size: cover;
+    display: flex;
+    width: 100%;
+    height: px;
+    flex-direction:flex;
+    justify-content:center;
 }
 h1{
     color: white;
     font-size: 48px;
 }
+.p__css{color: white;
+    font-size: medium;
+    justify-content: center;
+    padding-top:20px ;
+}
 p{
-    color: white;
+    color: rgb(0, 0, 0);
     font-size: medium;
     justify-content: center;
     padding-top:20px ;
 }
 ul li{
     list-style: none;
+}
+
+.formulario{
+    width: px;
+    margin: auto;
 }
